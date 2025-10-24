@@ -1,6 +1,6 @@
 ## 🎉 Birthday Greeting Webpage 
 
-[Demo](https://park123861.github.com/abdullah1/)
+[Demo](https://park123861.github.io/abdullah1/)
 
 ## 🚀 How to Use
 
@@ -34,4 +34,5 @@ If you have any ideas to make it more interesting, please submit a pull request 
 ### [MIT](LICENSE)
 
 > Github [@park123861](https://github.com/park123861)
+
 
